@@ -20,3 +20,12 @@ export interface Contact_Interface {
   zipCode: string;
   registrarId: number;
 }
+
+export interface Invoice_Interface {
+  id: number;
+  name: string;
+  email: string;
+  cost: string;
+  phone: string;
+  date: string;
+}

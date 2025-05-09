@@ -1,6 +1,7 @@
 import { tokens } from "../context/theme";
+import type { TeamMember } from "../utils/types/types";
 
-export const mockDataTeam = [
+export const mockDataTeam: TeamMember[] = [
   {
     id: 1,
     name: "Jon Snow",

@@ -14,7 +14,7 @@ import Faq from "./screens/faq/faq";
 import Geography from "./screens/geography/geography";
 import Calendar from "./screens/calendar/calendar";
 import SidebarComponent from "./screens/global/SidebarComponent";
-
+// FINISH PROJECT...
 function App() {
   const { colorMode, theme } = useMode();
 
